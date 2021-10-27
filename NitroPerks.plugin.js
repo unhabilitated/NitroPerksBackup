@@ -1,4 +1,7 @@
 /**
+ * MANTAINER BELOW
+ * @updateUrl https://raw.githubusercontent.com/unhabilitated/NitroPerksBackup/main/NitroPerks.plugin.js
+ * ORIGINAL AUTHOR BELOW
  * @name NitroPerks
  * @website https://github.com/respecting/NitroPerks
  * @source https://raw.githubusercontent.com/respecting/NitroPerks/main/NitroPerks.plugin.js
