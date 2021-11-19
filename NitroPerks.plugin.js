@@ -1,11 +1,6 @@
 /**
  * MANTAINER BELOW
- * @updateUrl https://raw.githubusercontent.com/unhabilitated/NitroPerks/main/NitroPerks.plugin.js
- * ORIGINAL AUTHOR BELOW
- * @name NitroPerks
- * @website https://github.com/respecting/NitroPerks
- * @source https://raw.githubusercontent.com/respecting/NitroPerks/main/NitroPerks.plugin.js
- * @updateUrl https://raw.githubusercontent.com/respecting/NitroPerks/main/NitroPerks.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/unhabilitated/NitroPerksBackup/main/NitroPerks.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
@@ -35,14 +30,14 @@ module.exports = (() => {
         "info": {
             "name": "NitroPerks",
             "authors": [{
-                "name": "unhabilitated (original: lemons)",
+                "name": "unhabilitated",
                 "discord_id": "302437616400334848",
                 "github_username": "unhabilitated"
             }],
             "version": "1",
-            "description": "Unlock all screensharing modes, and use cross-server emotes & gif emotes, Discord wide! (You CANNOT upload 100MB files though. :/)",
-            "github": "https://github.com/unhabilitated/NitroPerks/blob/main/NitroPerks.plugin.js",
-            "github_raw": "https://raw.githubusercontent.com/unhabilitated/NitroPerks/main/NitroPerks.plugin.js"
+            "description": "Unlock all screensharing modes, and use cross-server emotes & gif emotes, Discord wide! (You CANNOT upload 100MB files though.)",
+	    "github": "https://github.com/unhabilitated/NitroPerksBackup/blob/main/NitroPerks.plugin.js",
+            "github_raw": "https://raw.githubusercontent.com/unhabilitated/NitroPerksBackup/main/NitroPerks.plugin.js"
         },
         "main": "NitroPerks.plugin.js"
     };
